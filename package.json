@@ -1,0 +1,27 @@
+{
+  "name": "lenovo-ai-team",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reeyaparmar/Lenovo-AI-Team.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reeyaparmar/Lenovo-AI-Team/issues"
+  },
+  "homepage": "https://github.com/reeyaparmar/Lenovo-AI-Team#readme",
+  "dependencies": {
+    "@react-navigation/stack": "^7.1.1",
+    "expo": "^52.0.35",
+    "expo-av": "~15.0.2",
+    "expo-file-system": "~18.0.10",
+    "expo-notifications": "~0.29.13",
+    "react-native-paper": "^5.13.1"
+  }
+}
